@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 465551c8-c00b-6528-3e4e-00794aecdbbe
 ---
@@ -110,28 +112,6 @@ GIR ![](/images/educator/icon-question-gir.png)
 ### Offered
 
 Every spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Lecture hall with a seating capacity greater than 100.]({{< resource_file ca0dd471-7586-6c50-b745-f868dde87eaf >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    Lectures were held in a classroom with tiered seating, tablet armchairs, sliding chalkboards, and an A/V system.
-    
-*   ![View from back of a recitation classroom. Three students sitting at tables. A teaching assistant writing on chalkboard.]({{< resource_file 7915f171-8031-939e-c46f-8284dfd3eed0 >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitation
-    
-    Recitations were held in smaller classrooms with moveable tables and sliding chalkboards.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

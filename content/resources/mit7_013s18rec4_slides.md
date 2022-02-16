@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-013-introductory-biology-spring-2018/df03b2fc0a1a06d9f2283971b47b0d63_MIT7_013s18Rec4_slides.pdf
+file: /media/courses/7-013-introductory-biology-spring-2018/df03b2fc0a1a06d9f2283971b47b0d63_MIT7_013s18Rec4_slides.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+ocw_type: OCWFile
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: 7.013 S18 Recitation 4 Slides
 uid: df03b2fc-0a1a-06d9-f228-3971b47b0d63
