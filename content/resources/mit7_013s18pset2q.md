@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 486104e2-17e4-7f24-9e49-cb69411aa65f
 resourcetype: Document
 title: MIT7_013s18Pset2Q
 uid: 383272e8-c5b1-2fa2-1206-e479b05078c2

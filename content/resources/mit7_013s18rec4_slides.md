@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 75da904a-845e-966c-4b84-a93193f1eced
 resourcetype: Document
 title: 7.013 S18 Recitation 4 Slides
 uid: df03b2fc-0a1a-06d9-f228-3971b47b0d63

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 486104e2-17e4-7f24-9e49-cb69411aa65f
 resourcetype: Document
 title: 7.013 S18 Problem Set 3 Solutions
 uid: 44d80cb4-8bae-d5ff-cbe9-9ea48802ddf4

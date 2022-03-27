@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 465551c8-c00b-6528-3e4e-00794aecdbbe
 resourcetype: Image
 title: recitation_4bb.jpg
 uid: c5db4066-8cbf-3b52-9354-e4a2804bf6de
