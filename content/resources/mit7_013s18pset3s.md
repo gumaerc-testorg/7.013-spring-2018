@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/7-013-introductory-biology-spring-2018/44d80cb48baed5ffcbe99ea48802ddf4_MIT7_013s18Pset3S.pdf
+file: /courses/7-013-introductory-biology-spring-2018/44d80cb48baed5ffcbe99ea48802ddf4_MIT7_013s18Pset3S.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
