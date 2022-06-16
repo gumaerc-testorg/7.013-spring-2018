@@ -1,18 +1,18 @@
 ---
 content_type: page
+description: ''
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 465551c8-c00b-6528-3e4e-00794aecdbbe
 ---
-
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
-_Below, Dr. Diviya Ray responds to questions about how she teaches_ 7.013 Introductory Biology.
+*Below, Dr. Diviya Ray responds to questions about how she teaches* 7.013 Introductory Biology.
 
 **OCW**: Tutors are available for any student who wants extra help with the course material. This service is offered free of charge. Who serves as tutors? How often do students take advantage of this opportunity?
 
@@ -24,9 +24,9 @@ The tutors have access to the class materials. Depending on the material that a 
 
 **OCW**: Scaffolded exercises are a unique aspect of this course. Tell us more about them.
 
-![Stapled packet of papers with diagrams and prompts on a table. A pen sits on top of the packet of papers.]({{< resource_file c5db4066-8cbf-3b52-9354-e4a2804bf6de >}})
+{{< resource uuid="c5db4066-8cbf-3b52-9354-e4a2804bf6de" >}}
 
-A scaffolded exercise students encountered during a _7.013 Introductory Biology_ recitation session. (Image by MIT OpenCourseWare.)
+A scaffolded exercise students encountered during a *7.013 Introductory Biology* recitation session. (Image by MIT OpenCourseWare.)
 
 **Diviya Ray:** During this iteration of the course, we experimented with using scaffolded exercises during recitations addressing fundamental course material. What this means is that we provided support to the students that helped them walk step-wise through a problem-solving process to ultimately apply the concepts they learned in the lectures to solve more complex problems. We were able to monitor the progress of the students in recitations, address their misconceptions, and provide real-time feedback based on their responses.
 
@@ -36,7 +36,7 @@ Students seemed to benefit from the scaffolded exercises we designed. However, t
 
 {{< div-with-class "reveal1">}}
 
-› _Read More/Read Less_
+› *Read More/Read Less*
 
 {{< /div-with-class >}}{{< div-with-class "toggle1">}}
 
@@ -58,14 +58,9 @@ In addition to office hours, the teaching team also offers students enrichment m
 
 {{< /div-with-class >}}
 
-Teaching Assistant Insights
----------------------------
+## Teaching Assistant Interview
 
-_Below, Nneoma Okonkwo, a senior in the Biological Engineering department, responds to questions about her experiences using scaffolded exercises as a teaching assistant in_ 7.013 Introductory Biology.
-
-![Smiling woman standing in front of a black board.]({{< resource_file b6745f8a-43d3-397d-3f2e-16f2de8c8582 >}})
-
-Nneoma Okonkow facilitating a _7.013 Introductory Biology_ recitation session. (Image by MIT OpenCourseWare.)
+*Below, Nneoma Okonkwo, a senior in the Biological Engineering department, responds to questions about her experiences using scaffolded exercises as a teaching assistant in* 7.013 Introductory Biology.
 
 **OCW**: How did you use scaffolded exercises during your recitation sessions?
 
@@ -79,10 +74,9 @@ Nneoma Okonkow facilitating a _7.013 Introductory Biology_ recitation session. (
 
 **Nneoma Okonkwo:** Yes, I would definitely recommend using scaffolded exercises because introductory biology courses usually comprise a diverse body of students, with some students having a solid biology foundation, and some having little or none. The scaffolded exercises can help those in the latter category ease their way into the novel material and get up to speed with the former, while also serving as good refreshers for those who are more familiar with the material.
 
-Student Insights
-----------------
+## Student Interview
 
-_Below, Anjolaoluwa Feymi, a chemical engineering major, shares insights about being a student in_ 7.013 Introductory Biology.
+*Below, Anjolaoluwa Feymi, a chemical engineering major, shares insights about being a student in* 7.013 Introductory Biology.
 
 ### Most helpful teaching strategies used by instructors
 
@@ -98,8 +92,7 @@ I recommend that other instructors try scaffolded exercises because they offer a
 
 Don't get flustered after an exam. There’s plenty of time and opportunity to bounce back. Recitations are the most important part of the course, followed closely by meaningful time spent solving problems on your own. Problem sets should not be taken lightly and are a great aid for your exams and overall understanding.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -115,30 +108,25 @@ Every spring semester
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
 The students' grades were based on the following activities:
 
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
+
 - 51% Term exams
 - 32% Final exam
 - 17% Problem sets
 
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
+## Student Information
 
-{{< tableclose >}}
+### Enrollment
 
-Student Information
--------------------
-
-![268 students took this course when it was taught in Spring 2018.]({{< resource_file ece8b1d7-43db-548d-e152-af4be4b44996 >}})
+268 students
 
 ### Breakdown by Year
 
@@ -154,54 +142,44 @@ This course is offered as a GIR ![](/images/educator/icon-question-gir.png), whi
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met 3 times per week for 1 hour per session; 38 sessions total.
-*   Class sessions were lecture-based.
+- Met 3 times per week for 1 hour per session; 38 sessions total.
+- Class sessions were lecture-based.
 
-Recitation
-----------
+### Recitation
 
-*   Met 2 times per week for 1 hour per session; 27 sessions total. Regular attendance expected but not mandatory.
-*   Teaching assistants reviewed key lecture concepts, guided students through scaffolded exercises, and supported students in solving problems.
+- Met 2 times per week for 1 hour per session; 27 sessions total. Regular attendance expected but not mandatory.
+- Teaching assistants reviewed key lecture concepts, guided students through scaffolded exercises, and supported students in solving problems.
 
-Out of Class
-------------
+### Out of Class
 
-*   Students completed problem sets, prepared for exams, and attended office hours and tutoring sessions as needed.
+- Students completed problem sets, prepared for exams, and attended office hours and tutoring sessions as needed.
 
-Course Team Roles
------------------
+## Course Team Roles
 
-Professors (Prof. Hazel Sive & Prof. Angelika Amon)
----------------------------------------------------
+### Professors (Prof. Hazel Sive & Prof. Angelika Amon)
 
 Two professors delivered the lectures for the course. The recitations, problem sets, and exams were designed around their lecture materials. They worked closely with the course instructor and provided feedback during the development of the exams and problem sets. They offered office hours when they were on campus, and were available to the course instructor, teaching assistants, and students via email and by appointment throughout the course.
 
-Instructor (Dr. Diviya Ray)
----------------------------
+### Instructor (Dr. Diviya Ray)
 
 The instructor for the course had both administrative and academic responsibilities. As the course administrator, the instructor was the common point of contact for the students, professors, teaching assistants, and other departments on campus, such as Student Support Services. She created and maintained the class website, posted weekly announcements, maintained the class calendar, and responded to emails from students and the teaching staff. The instructor also hired the tutors and graders for the course and approved their weekly work hours. Additionally, she approved the grades for all problem sets and exams, while also arranging for accommodations for students with learning needs as identified by Student Disability Services.
 
 The academic responsibilities of the instructor involved working closely wih the course professors and designing the recitation summaries, their associated questions and answer keys, and scaffolded exercises, which the teaching assistants use to teach recitations. She met with the teaching assistants weekly as a group and provided them with guidance and instructions for teaching the recitations successfully. The instructor also generated problem sets and exams, finalizing them based on suggestions and feedback from the professors and teaching assistants. She offered weekly office hours, provided pre-exam review sessions, and generated pre-exam study sheets. Monitoring the class forum and responding to students’ questions on the forum were also among her responsibilities. She attended all lectures and gave lectures if the professors were unavailable.
 
-Teaching Assistants
--------------------
+### Teaching Assistants
 
 Nine teaching assistants attended the lectures and facilitated recitation sessions. They also took the exams and completed the problem sets before these materials were given to students. Teaching assistants held office hours each week, proctored and graded exams, and assessed problem sets, under the supervision of the course instructor.
 
-Graders
--------
+### Graders
 
 Graders were undergraduate students who helped the teaching assistants assess students’ work on problem sets. The teaching assistants and course instructor supervised their work.
 
-Tutors
-------
+### Tutors
 
 Tutors were undergraduate students who tutored 7.013 students needing extra help on a one-time or regular basis. They sat in on one-on-one tutoring sessions offered by the instructor, if tutoring for the first time. They communicated with instructor when administrative or academic questions arose. This service was provided to students free of cost.
