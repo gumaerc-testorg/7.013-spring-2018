@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains optional study materials, as well as additional
+  readings and videos, for extra enrichment.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: dcc7a34a-40f4-5d7c-dae7-be3326a76c4c
 ---
@@ -16,7 +20,7 @@ Halpine, S. "[Membrane Structure: The Fluid Mosaic Model](http://www.susanahalpi
 
 AskaBiologist. "[Protein Folding](https://www.youtube.com/watch?v=yZ2aY5lxEGE)." Jan 15, 2013. YouTube.
 
-Watson, J. D., and F. H. C. Crick. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Molecular Structure of Nucleic Acids](https://annals.org/aim/fullarticle/716280/reprint-molecular-structure-nucleic-acids)." _Nature_ 1953 Apr 25; 171 (4356): 737–8.
+Watson, J. D., and F. H. C. Crick. "[Molecular Structure of Nucleic Acids](https://annals.org/aim/fullarticle/716280/reprint-molecular-structure-nucleic-acids)." _Nature_ 1953 Apr 25; 171 (4356): 737–8.
 
 Groleau, R. "[How Cells Divide](https://www.pbs.org/wgbh/nova/body/how-cells-divide.html)." NOVA. PBS Online, by WGBH.
 
