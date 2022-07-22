@@ -5,6 +5,7 @@ file: /courses/7-013-introductory-biology-spring-2018/83b35da5809f1f3ce4c3513de4
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection

@@ -5,6 +5,7 @@ file: /courses/7-013-introductory-biology-spring-2018/9fc25c8355871b3b1a637d48fa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

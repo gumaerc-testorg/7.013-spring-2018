@@ -5,6 +5,7 @@ file: /courses/7-013-introductory-biology-spring-2018/383272e8c5b12fa21206e479b0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT7_013s18Pset2Q
 uid: 383272e8-c5b1-2fa2-1206-e479b05078c2
 ---
 Problem Set 2
-
