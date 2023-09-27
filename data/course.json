@@ -57,8 +57,10 @@
   },
   "learning_resource_types": [
     "Problem Sets with Solutions",
-    "Exams with Solutions"
+    "Exams with Solutions",
+    "Instructor Insights"
   ],
-  "site_uid": "8ab5edb6-2a3f-4a77-b584-b5ef11a170a9",
+  "site_uid": "4f34791d-afd5-4234-9c27-a9854e29b964",
+  "site_short_id": "7.013-spring-2018",
   "title": "Course Metadata"
 }
