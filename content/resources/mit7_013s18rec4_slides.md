@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-013-introductory-biology-spring-2018/df03b2fc0a1a06d9f2283971b47b0d63_MIT7_013s18Rec4_slides.pdf
+file_size: 354365
 file_type: application/pdf
 learning_resource_types:
 - Recitations
