@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem Set 2
 file: /courses/7-013-introductory-biology-spring-2018/383272e8c5b12fa21206e479b05078c2_MIT7_013s18Pset2Q.pdf
+file_size: 267100
 file_type: application/pdf
 learning_resource_types:
 - Assignments

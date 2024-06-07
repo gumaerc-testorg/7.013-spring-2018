@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/7-013-introductory-biology-spring-2018/c5db40668cbf3b529354e4a2804bf6de_recitation_4bb.jpg
+file_size: 128455
 file_type: image/jpeg
 image_metadata:
   caption: ''
