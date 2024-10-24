@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/7-013-introductory-biology-spring-2018/ca0dd47175866c50b745f868dde87eaf_classroom1.jpg
+file: /ol-ocw-studio-app/courses/7-013-introductory-biology-spring-2018/ca0dd47175866c50b745f868dde87eaf_classroom1.jpg
 file_size: 19729
 file_type: image/jpeg
 image_metadata:
