@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/7-013-introductory-biology-spring-2018/ee425623b7d733c90772dfce432a3f98_MIT7_013s18Pset5Q.pdf
+file: /courses/7-013-introductory-biology-spring-2018/ee425623b7d733c90772dfce432a3f98_MIT7_013s18Pset5Q.pdf
 file_size: 196422
 file_type: application/pdf
 learning_resource_types:
