@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem Set 1 Solutions
-file: /ol-ocw-studio-app/courses/7-013-introductory-biology-spring-2018/9b00c2bc9940252d72dabfff1f83cc8a_MIT7_013s18Pset1S.pdf
+file: /courses/7-013-introductory-biology-spring-2018/9b00c2bc9940252d72dabfff1f83cc8a_MIT7_013s18Pset1S.pdf
 file_size: 402391
 file_type: application/pdf
 learning_resource_types:
