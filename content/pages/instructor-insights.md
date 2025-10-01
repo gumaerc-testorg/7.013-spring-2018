@@ -16,7 +16,7 @@ uid: 465551c8-c00b-6528-3e4e-00794aecdbbe
 
 **OCW**: Tutors are available for any student who wants extra help with the course material. This service is offered free of charge. Who serves as tutors? How often do students take advantage of this opportunity?
 
-**Diviya Ray:** Undergraduate students who have previously taken one of the five versions of Introductory Biology and have received a strong grade in the course and participated actively in the class and recitations, or who have passed the [Biology Advanced Standing Exam (ASE)](https://biology.mit.edu/undergraduate/course-requirements/advanced-standing-exam/), are given the opportunity to work as tutors.
+**Diviya Ray:** Undergraduate students who have previously taken one of the five versions of Introductory Biology and have received a strong grade in the course and participated actively in the class and recitations, or who have passed the {{% resource_link "acc49846-7078-4050-99c5-723659724fee" "Biology Advanced Standing Exam (ASE)" %}}, are given the opportunity to work as tutors.
 
 A good number of students in the class (15-20%) take advantage of tutoring support on a one-time or regular basis. The number of students seeking help increases as the course progresses, especially after the first exam or when the problem sets are due. The tutors are especially helpful for students who have failed one or more exams.
 
